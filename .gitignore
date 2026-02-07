@@ -1,0 +1,4 @@
+# Ignore password vault files
+vault.txt
+vault.enc
+.master.hash
