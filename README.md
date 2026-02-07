@@ -29,3 +29,12 @@ Designed for learning Bash scripting, file handling, and basic encryption.
 
 ## Disclaimer
 This project is for educational purposes only.
+
+## Installation
+
+Clone the repository and make the script executable:
+
+```bash
+git clone https://github.com/ekka-np/bash_password_manager_26.git && \
+cd bash_password_manager_26 && \
+chmod +x password_manager.sh
